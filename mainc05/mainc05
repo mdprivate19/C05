@@ -1,0 +1,66 @@
+ex00
+
+#include <stdio.h>
+int main()
+{
+	printf("%d", ft_iterative_factorial(-25));
+}
+
+ex01
+
+#include <stdio.h>
+ 
+int main()
+{
+    printf("%d", ft_recursive_factorial(2));
+}
+
+ex02
+
+#include <stdio.h>
+ 
+int main()
+{
+	printf("%d", ft_iterative_power(2, -1));
+}
+
+ex03
+
+#include <stdio.h>
+int main()
+{
+	printf("%d", ft_recursive_power(2, -1));
+}
+
+ex04
+
+#include <stdio.h>
+int main()
+{
+	printf("%d", ft_fibonacci(6));
+}
+
+ex05
+
+#include <stdio.h>
+int main()
+{
+	printf("%d", ft_sqrt(2147302921));
+}
+
+ex06
+
+#include <stdio.h>
+int main()
+{
+	printf("%d", ft_is_prime(55001));
+}
+
+ex07
+
+#include <stdio.h>
+int main()
+{
+	printf("%d", ft_find_next_prime(55001));
+}
+
